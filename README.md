@@ -7,7 +7,7 @@ This project aims to analyze and evaluate the performance of digital marketing c
 - Spending
 
 2. Data sources:
-The data from public dataset from Kaggle (Link:
+The data chosen from public dataset from Kaggle (Link: https://www.kaggle.com/datasets/loveall/clicks-conversion-tracking)
 
 | Variable                | Description                                                                                          |
 | ----------------------- | ---------------------------------------------------------------------------------------------------- |
