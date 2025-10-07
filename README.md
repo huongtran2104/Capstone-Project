@@ -81,8 +81,10 @@ These recommendations are suggested for future enhancements:
 - Refine audience segmentation to reduce wasted impressions and improve targeting precision.
 - For niche marketing campaigns: focus on older people and implementing personalization strengthen connection with the niche group.
 - For mass targeting campaigns: focus on young people 30–34 from all gender demographic as a core conversion driver.
+
 **2. Organic and cost efficient strategy:**
 - Leverage user generated content and community engagement to sustain organic growth.
 - Enhance SEO and social media optimization to strengthen visibility without increasing ad spend.
+
 **3. Align Content with Top Interests:**
 - Develop ad creatives and materials around interest categories #16, #10, and #29 to maximize relevance and engagement.
