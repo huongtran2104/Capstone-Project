@@ -56,4 +56,20 @@ It is not possible to accurately assess their performance over time or account f
 
 This can limit the thorough analysis on performance metrics such as customers acquisition cost (CAC), or understand the profitability. Hence, this analysis focuses solely on digital marketing effectiveness. Specifically, it evaluates the cost of acquiring customers through ad spending and identifies which campaign demonstrates the most cost-effective performance.
 
+## 📈 Key Insights
 
+**Insight 1:** Campaign A adopted a niche targeting strategy with optimized spending yet achieved strong performance. It engaged primarily older males (40–49 years).
+
+**Insight 2:** Campaigns B and C had higher investments and broader reach, engaging mostly ages 45–49, but the 30–34 age group drove the most conversions.
+
+**Insight 3:** Ads associated with interest codes #16, #10, and #29 generated the highest ad engagement and conversions.
+
+## 💡 Actionabl recommendations
+
+These recommendations are suggested for future enhancements:
+
+**1. Refine  Strategy:** Continue niche targeting of the older demographic to maintain cost efficiency and solid conversion outcomes.
+
+**2. Enhance Content for Converters:** Tailor future campaign messaging toward the 30–34 age group, while maintaining secondary attention to the 45–49 segment for balanced reach.
+
+**3. Align Content with Top Interests:** Develop ad creatives and materials around interest categories #16, #10, and #29 to maximize relevance and engagement.
